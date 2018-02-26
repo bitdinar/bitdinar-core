@@ -3,7 +3,7 @@ BitDinar Core integration/staging tree
 
 Contributing [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/bitdinar/bitdinar-core/issues)
 
-https://bitdinar.xyz
+http://bitdinar.xyz
 
 What is BitDinar?
 ----------------
@@ -15,7 +15,7 @@ out collectively by the network. BitDinar Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the BitDinar Core software, see [https://bitdinar.xyz](https://bitdinar.xyz).
+the BitDinar Core software, see [http://bitdinar.xyz](http://bitdinar.xyz).
 
 License
 -------
